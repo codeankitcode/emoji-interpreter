@@ -6,3 +6,6 @@
  This project inclues use of useState and map methods.
  
  We often have difficult time understanding the meaning of an emoji, this project is exactly for that. To interpret the meaning of an emoji
+
+
+[See the project live here](https://fs2gmz.csb.app/)
